@@ -11,3 +11,5 @@ There are several functions that are used in this file.
 My fav's the datetime function.
 Which one's your favourite?
 
+This time my favourite is the last one where I had to break my head over pass and continue.
+Also, global keyword and generators are used at places which I enjoyed doing!
