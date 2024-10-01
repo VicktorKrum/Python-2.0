@@ -12,4 +12,7 @@ My fav's the datetime function.
 Which one's your favourite?
 
 This time my favourite is the last one where I had to break my head over pass and continue.
+"pass is a null operation; nothing happens when it executes. It's useful as a placeholder in areas of your code where a statement is required syntactically, but no command or code is needed.
+
+continue is used to skip the rest of the current iteration of a loop and move to the next iteration."
 Also, global keyword and generators are used at places which I enjoyed doing!
