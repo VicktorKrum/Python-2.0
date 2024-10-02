@@ -16,3 +16,10 @@ This time my favourite is the last one where I had to break my head over pass an
 
 continue is used to skip the rest of the current iteration of a loop and move to the next iteration."
 Also, global keyword and generators are used at places which I enjoyed doing!
+
+{02-10-2024}
+This is the last file for python basic exercises part - 1.
+
+I found it interesting while trying to code gcd with my own logic.
+It was so much fun!
+
